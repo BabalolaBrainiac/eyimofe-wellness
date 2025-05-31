@@ -154,14 +154,14 @@ export default function Home() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
               <p className="text-lg text-gray-300 leading-relaxed">
-                For over 7 years, I've been dedicated to helping individuals
+                For over 7 years, I&apos;ve been dedicated to helping individuals
                 discover their path to wellness through the ancient practice of
                 yoga and modern wellness techniques. My approach combines
                 traditional wisdom with contemporary understanding of mind-body
                 connection.
               </p>
               <p className="text-lg text-gray-300 leading-relaxed">
-                Ready to begin your wellness journey? I'd love to hear from you
+                Ready to begin your wellness journey? I&apos;d love to hear from you
                 and discuss how we can work together to achieve your wellness
                 goals.
               </p>
@@ -262,7 +262,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="font-serif text-4xl lg:text-5xl font-bold mb-6 text-primary-400">
-              Let's Connect
+              Let&apos;s Connect
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-primary-500 to-primary-600 mx-auto mb-8"></div>
           </div>
@@ -270,7 +270,7 @@ export default function Home() {
           <div className="grid lg:grid-cols-2 gap-12">
             <div className="space-y-8">
               <p className="text-lg text-gray-300 leading-relaxed">
-                Ready to begin your wellness journey? I'd love to hear from you
+                Ready to begin your wellness journey? I&apos;d love to hear from you
                 and discuss how we can work together to achieve your wellness
                 goals.
               </p>
