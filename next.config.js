@@ -1,9 +1,5 @@
- /** @type {NextConfig} */ 
+/** @type {NextConfig} */
 /** @typedef {import('next').NextConfig} NextConfig */
-const nextConfig = {
-  experimental: {
-    appDir: true,
-  },
-}
+const nextConfig = {};
 
-module.exports = nextConfig
+module.exports = nextConfig;
